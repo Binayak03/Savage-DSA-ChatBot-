@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 5. Run the app
   cd backend
-  python app.py
+  python main.py
 
   cd frontend
   go to index.html, open with live server
