@@ -46,5 +46,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 5. Run the app
+  cd backend
+  python app.py
 
-python app.py
+  cd frontend
+  go to index.html, open with live server
